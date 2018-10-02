@@ -369,11 +369,11 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/processed/directors/denorm.py" timestamp="1538477985646">
-        <mark key="[" line="17" column="79" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray/processed/directors/denorm.py" timestamp="1538482690561">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="30" column="16" />
+        <mark key="." line="30" column="16" />
       </file>
     </filemarks>
     <jumps>
