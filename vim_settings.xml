@@ -10,8 +10,18 @@
       <file name="/a.dummy" timestamp="1536677318727">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/idiomatic_phrases.py" timestamp="1531834013275">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/rad01/coalesce_events.py" timestamp="1530802744954">
         <mark key="[" line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/output/csv/gb_domains_for_crawling.py" timestamp="1536055828280">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/output/postgres/datasci_keywords/company_keywords.py" timestamp="1536597367590">
         <mark key="[" line="7" column="0" />
@@ -24,11 +34,26 @@
         <mark key="[" line="80" column="44" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/processed/directors/stats.py" timestamp="1538474622998" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray/uk/dir01/merge.py" timestamp="1530700571777">
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="362" column="0" />
+        <mark key="." line="362" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/postgres-prod.yml" timestamp="1538386940430">
         <mark key="[" line="654" column="34" />
       </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/ingestion_reqs.sh" timestamp="1532011860045">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/multiple_trading_addresses/geolocate_postcodes.py" timestamp="1531487933580">
         <mark key="[" line="21" column="38" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/events_one_off.py" timestamp="1530719137812">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_candidates.py" timestamp="1536829449178">
         <mark key="[" line="46" column="0" />
@@ -57,6 +82,11 @@
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/acc01/raw.py" timestamp="1523537686361">
         <mark key="[" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/ids/datamatching/postcodematch.py" timestamp="1531815063930">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/job/events_one_off.py" timestamp="1530716847395">
         <mark key="[" line="87" column="23" />
@@ -115,14 +145,34 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="110" column="38" />
       </file>
+      <file name="$USER_HOME$/omicron/omicron/key_extractor/postcode_map.py" timestamp="1531394532909">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/key_extractor/keywords_patches.py" timestamp="1535965765525">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/extract_keywords_from_top_website.py" timestamp="1532007502447">
         <mark key="[" line="36" column="57" />
         <mark key="]" line="36" column="57" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="28" column="56" />
       </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/jupyter.sh" timestamp="1532084016551">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/DueDil/ten_percent/bash/user_input/rearrange_input.sh" timestamp="1524233646749">
         <mark key="[" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/DueDil/url-matching/uma/util/hdfs.py" timestamp="1536757498556">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/emails/process/match.py" timestamp="1534412047572">
         <mark key="[" line="168" column="111" />
@@ -163,14 +213,34 @@
         <mark key="." line="69" column="45" />
         <mark key="^" line="69" column="45" />
       </file>
+      <file name="$USER_HOME$/omicron/omicron/ingester/postcode_map.py" timestamp="1531401608812">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/data-chain/data-collection/ray/ftpsync/__main__.py" timestamp="1529657461659">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="10" column="31" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/unification/create_unification_maps.py" timestamp="1531834043776">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/process_training_set/training_set_features.py" timestamp="1522069597647">
         <mark key="[" line="97" column="9" />
+      </file>
+      <file name="$USER_HOME$/repos/data-chain/data-collection/ray/ftpsync/bin/env/lib/python2.7/site-packages/boto/s3/connection.py" timestamp="1529591469036">
+        <mark key="[" line="155" column="27" />
+        <mark key="]" line="155" column="27" />
+        <mark key="." line="155" column="27" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/website_extraction_test.py" timestamp="1533918023948">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/gazette/__init__.py" timestamp="1530893282233">
         <mark key="[" line="5" column="15" />
@@ -204,6 +274,11 @@
         <mark key="^" line="152" column="25" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/link/input/__init__.py" timestamp="1537366113417" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray/job/coalesce_events.py" timestamp="1530721937748">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/events.py" timestamp="1530710134936">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="9" column="0" />
@@ -228,6 +303,21 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/dev_environment.sh" timestamp="1533571116812">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/DueDil/url-matching/requirements.pip" timestamp="1536742907921">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc02/merge.py" timestamp="1538578336782">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/datarequests/lse/filter_by_accounts.py" timestamp="1523871604282">
         <mark key="[" line="109" column="38" />
       </file>
@@ -245,6 +335,12 @@
         <mark key="[" line="9" column="5" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc01/merge.py" timestamp="1538578332674">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords.yml" timestamp="1538385820673">
         <mark key="'" line="116" column="8" />
@@ -264,6 +360,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/omicron_reqs.sh" timestamp="1534839980822">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/requirements.pip" timestamp="1523889831350">
         <mark key="[" line="17" column="10" />
       </file>
@@ -274,6 +375,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="74" />
       </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction.py" timestamp="1536584756193">
+        <mark key="[" line="196" column="30" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/requirements.pip" timestamp="1537262426997">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/link/extract_keywords.py" timestamp="1537373123984">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="22" />
@@ -282,6 +393,16 @@
       </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/website_extraction.py" timestamp="1534157619032">
         <mark key="[" line="466" column="36" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction_util.py" timestamp="1533739128767">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/combine_output.py" timestamp="1535546231942">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/coalesce_events.py" timestamp="1530802655322">
         <mark key="[" line="14" column="15" />
@@ -294,6 +415,11 @@
       </file>
       <file name="$USER_HOME$/DueDil/ten_percent/bash/database.sh" timestamp="1524153877113">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/all_sources_join.py" timestamp="1530179017896">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/acc01/coalesce_events.py" timestamp="1530781139850">
         <mark key="[" line="1" column="21" />
@@ -310,6 +436,11 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="21" column="44" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/top_website_keywords_extract.py" timestamp="1533907644133">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1536757063370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,6 +449,16 @@
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/setup/docker-push-latest.sh" timestamp="1536830711981">
         <mark key="[" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/core/spark/job.py" timestamp="1534499871794">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/glossaries.py" timestamp="1534508976665">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/core/pipeline.py" timestamp="1534499585062">
         <mark key="[" line="19" column="0" />
@@ -354,6 +495,11 @@
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/unification/synonym_map.py" timestamp="1522933529688">
         <mark key="[" line="31" column="34" />
+      </file>
+      <file name="$USER_HOME$/omicron/helpers/create_cluster.py" timestamp="1533552726638">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="122" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/process_training_set/features_extractor/stopwords.py" timestamp="1519810423863">
         <mark key="[" line="0" column="14" />
@@ -484,7 +630,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gJ2NvcmU6aW8uY29tcHJlc3Npb24uY29kZWNzPW9yZy5hcGFjaGUuaGFkb29wLmlvLmNvbXByZXNzLkd6aXBDb2RlYyxvcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5EZWZhdWx0Q29kZWMsb3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuQlppcDJDb2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9wQ29kZWMnCiAgICAtICdjb3JlOmlvLmNvbXByZXNzaW9uLmNvZGVjLmx6by5jbGFzcz1jb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYycK</text>
+        <text encoding="base64">ZnJvbSBzbmFwc2hvdC5jb3JlLmhhZG9vcC5kZWNvcmF0b3JzIGltcG9ydCByZWR1Y2VfdGFza3MK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -493,34 +639,34 @@
         <text>BATCHES_CHUNK_SIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfd3JhcF9wcm90b2NvbHMoc2VsZiwgc3RlcF9udW0sIHN0ZXBfdHlwZSk6CiAgICAgICAgIiIiUGljayB0aGUgcHJvdG9jb2wgY2xhc3NlcyB0byB1c2UgZm9yIHJlYWRpbmcgYW5kIHdyaXRpbmcKICAgICAgICBmb3IgdGhlIGdpdmVuIHN0ZXAsIGFuZCB3cmFwIHRoZW0gc28gdGhhdCBiYWQgaW5wdXQgYW5kIG91dHB1dAogICAgICAgIHRyaWdnZXIgYSBjb3VudGVyIHJhdGhlciB0aGFuIGFuIGV4Y2VwdGlvbiB1bmxlc3MgLS1zdHJpY3QtcHJvdG9jb2xzCiAgICAgICAgaXMgc2V0LgoKICAgICAgICBSZXR1cm5zIGEgdHVwbGUgb2YgYGAocmVhZF9saW5lcywgd3JpdGVfbGluZSlgYAoKICAgICAgICBgYHJlYWRfbGluZXMoKWBgIGlzIGEgZnVuY3Rpb24gdGhhdCByZWFkcyBsaW5lcyBmcm9tIGlucHV0LCBkZWNvZGVzCiAgICAgICAgICAgIHRoZW0sIGFuZCB5aWVsZHMga2V5LCB2YWx1ZSBwYWlycy4KICAgICAgICBgYHdyaXRlX2xpbmUoKWBgIGlzIGEgZnVuY3Rpb24gdGhhdCB0YWtlcyBrZXkgYW5kIHZhbHVlIGFzIGFyZ3MsCiAgICAgICAgICAgIGVuY29kZXMgdGhlbSwgYW5kIHdyaXRlcyBhIGxpbmUgdG8gb3V0cHV0LgoKICAgICAgICA6cGFyYW0gc3RlcF9udW06IHdoaWNoIHN0ZXAgdG8gcnVuIChlLmcuIDApCiAgICAgICAgOnBhcmFtIHN0ZXBfdHlwZTogYGAnbWFwcGVyJ2BgLCBgYCdyZWR1Y2VyJ2BgLCBvciBgYCdjb21iaW5lcidgYCBmcm9tCiAgICAgICAgICAgICAgICAgICAgICAgICAgOnB5Om1vZDpgbXJqb2Iuc3RlcGAKICAgICAgICAiIiIKICAgICAgICByZWFkLCB3cml0ZSA9IHNlbGYucGlja19wcm90b2NvbHMoc3RlcF9udW0sIHN0ZXBfdHlwZSkKCiAgICAgICAgZGVmIHJlYWRfbGluZXMoKToKICAgICAgICAgICAgZm9yIGxpbmUgaW4gc2VsZi5fcmVhZF9pbnB1dCgpOgogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIGtleSwgdmFsdWUgPSByZWFkKGxpbmUucnN0cmlwKCdcclxuJykpCiAgICAgICAgICAgICAgICAgICAgeWllbGQga2V5LCB2YWx1ZQogICAgICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiwgZToKICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLm9wdGlvbnMuc3RyaWN0X3Byb3RvY29sczoKICAgICAgICAgICAgICAgICAgICAgICAgcmFpc2UKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmluY3JlbWVudF9jb3VudGVyKCdVbmRlY29kYWJsZSBpbnB1dCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUuX19jbGFzc19fLl9fbmFtZV9fKQoKICAgICAgICBkZWYgd3JpdGVfbGluZShrZXksIHZhbHVlKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcHJpbnQgPj4gc2VsZi5zdGRvdXQsIHdyaXRlKGtleSwgdmFsdWUpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb24sIGU6CiAgICAgICAgICAgICAgICBpZiBzZWxmLm9wdGlvbnMuc3RyaWN0X3Byb3RvY29sczoKICAgICAgICAgICAgICAgICAgICByYWlzZQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzZWxmLmluY3JlbWVudF9jb3VudGVyKCdVbmVuY29kYWJsZSBvdXRwdXQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUuX19jbGFzc19fLl9fbmFtZV9fKQoKICAgICAgICByZXR1cm4gcmVhZF9saW5lcywgd3JpdGVfbGluZQo=</text>
+        <text encoding="base64">ZnJvbSBzbmFwc2hvdC5jb3JlLmhhZG9vcC5qb2Jjb25mIGltcG9ydCByZWR1Y2VfdGFza3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gJ2NvcmU6aW8uY29tcHJlc3Npb24uY29kZWNzPW9yZy5hcGFjaGUuaGFkb29wLmlvLmNvbXByZXNzLkd6aXBDb2RlYyxvcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5EZWZhdWx0Q29kZWMsb3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuQlppcDJDb2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9wQ29kZWMnCiAgICAtICdjb3JlOmlvLmNvbXByZXNzaW9uLmNvZGVjLmx6by5jbGFzcz1jb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYycK</text>
+        <text encoding="base64">ZnJvbSBzbmFwc2hvdC5jb3JlLmhhZG9vcC5kZWNvcmF0b3JzIGltcG9ydCByZWR1Y2VfdGFza3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHZW5kZXJQcmVkaWN0aW9uSm9iLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZW1wbG95ZWVfbnVtYmVycyI6IE5vbmUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEaXJlY3RvckZpbmFuY2lhbHMsCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgICMgREQtNzMwMSBUZXNjbyBlbXBsb3llZSBjb3VudCB1bnJlcG9ydGVkIGZvciAyMDE0ICYgMjAxNQogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJVUERBVEUiLAogICAgICAgICAgICAia2V5IjogWyIwMDQ0NTc5MCJdLAogICAgICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAgICAgImVtcGxveWVlX251bWJlcnMiOiAzMTc4NDcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgImNvbmRpdGlvbiI6IHsKICAgICAgICAgICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICAgICAgICAgImVtcGxveWVlX251bWJlcnMiOiBOb25lLAogICAgICAgICAgICAgICAgICAgICJkYXRlIjogMjAxNDAyMjIsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJVUERBVEUiLAogICAgICAgICAgICAia2V5IjogWyIwMDQ0NTc5MCJdLAogICAgICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAgICAgImVtcGxveWVlX251bWJlcnMiOiAzMTU4MjkKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICdoZGZzOi8vL3NuYXBzaG90L3Byb2QvcmF5L3Byb2Nlc3NlZC9nZW5kZXJwcmVkaWN0aW9uL3ByZWRpY3QvMjAxODA5MjcvcGFydC0qJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbmRpdGlvbiI6IHsKICAgICAgICAgICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICAgICAgICAgImRhdGUiOiAyMDEsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICdoZGZzOi8vL3NuYXBzaG90L3Byb2QvcmF5L3Byb2Nlc3NlZC9kaXJlY3RvcnMvZmluYW5jaWFscy8yMDE4MDkyNy9wYXJ0LSonLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZW1wbG95ZWVfbnVtYmVycyI6IE5vbmUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC0gJ2NvcmU6aW8uY29tcHJlc3Npb24uY29kZWNzPW9yZy5hcGFjaGUuaGFkb29wLmlvLmNvbXByZXNzLkd6aXBDb2RlYyxvcmcuYXBhY2hlLmhhZG9vcC5pby5jb21wcmVzcy5EZWZhdWx0Q29kZWMsb3JnLmFwYWNoZS5oYWRvb3AuaW8uY29tcHJlc3MuQlppcDJDb2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYyxjb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9wQ29kZWMnCiAgICAtICdjb3JlOmlvLmNvbXByZXNzaW9uLmNvZGVjLmx6by5jbGFzcz1jb20uaGFkb29wLmNvbXByZXNzaW9uLmx6by5Mem9Db2RlYycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxhc3RpY3NlYXJjaF9iYXRjaF9zaXplOiAnMjAwMCcK</text>
+        <text encoding="base64">ICAgICAgICBHZW5kZXJQcmVkaWN0aW9uSm9iLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICBEaXJlY3RvckZpbmFuY2lhbHMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZWxhc3RpY3NlYXJjaF9iYXRjaF9zaXplOiAnMjAwMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICdoZGZzOi8vL3NuYXBzaG90L3Byb2QvcmF5L3Byb2Nlc3NlZC9nZW5kZXJwcmVkaWN0aW9uL3ByZWRpY3QvMjAxODA5MjcvcGFydC0qJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
