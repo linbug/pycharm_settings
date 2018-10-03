@@ -231,6 +231,12 @@
       <file name="$USER_HOME$/snapshot/snapshot/datarequests/lse/filter_by_accounts.py" timestamp="1523871604282">
         <mark key="[" line="109" column="38" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/output/snapshot/credit_limits.py" timestamp="1538561861511">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="61" />
+        <mark key="^" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/ray/output/snapshot/companies.py" timestamp="1538400181572" />
       <file name="$USER_HOME$/snapshot/bin/env/lib/python2.7/site-packages/mrjob/protocol.py" timestamp="1538404390806">
         <mark key="[" line="59" column="48" />
