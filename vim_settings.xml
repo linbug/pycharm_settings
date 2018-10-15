@@ -180,11 +180,10 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539602083514">
-        <mark key="[" line="852" column="35" />
-        <mark key="]" line="852" column="35" />
-        <mark key="." line="852" column="35" />
-        <mark key="^" line="852" column="19" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539606272155">
+        <mark key="[" line="432" column="28" />
+        <mark key="]" line="431" column="0" />
+        <mark key="." line="431" column="0" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -629,8 +628,8 @@
       <jump line="116" column="8" filename="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>duedil_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkX2tleXdvcmQnOiAne31fe30nLmZvcm1hdCh4WydkdWVkaWxfaWQnXSwga2V5d29yZCksCg==</text>
       </register>
       <register name="-" type="4">
         <text>duedil_id</text>
@@ -642,31 +641,31 @@
         <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgiZHVlZGlsX2lkIiwgVC5TdHJpbmdUeXBlKCksIEZhbHNlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkX2tleXdvcmQnOiAne31fe30nLmZvcm1hdCh4WydkdWVkaWxfaWQnXSwga2V5d29yZCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgidGllciIsIFQuU2hvcnRUeXBlKCksIFRydWUpLAogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2VzIiwgVC5BcnJheVR5cGUoVC5TdHJpbmdUeXBlKCkpLCBUcnVlKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgiZHVlZGlsX2lkX2tleXdvcmQiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgidGllciIsIFQuU2hvcnRUeXBlKCksIFRydWUpLAogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2VzIiwgVC5BcnJheVR5cGUoVC5TdHJpbmdUeXBlKCkpLCBUcnVlKSwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgiZHVlZGlsX2lkX2tleXdvcmQiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Im5hbWUiOiAia2V5d29yZHMiLCAidHlwZSI6ICJyZWNvcmQiLCAibW9kZSI6ICJyZXBlYXRlZCIsICJmaWVsZHMiOlsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJuYW1lIjogInRpZXIiLCAidHlwZSI6ICJpbnRlZ2VyIiwgIm1vZGUiOiAicmVxdWlyZWQifSwKICAgICAgICAgICAgeyJuYW1lIjogInNvdXJjZXMiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXBlYXRlZCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICBdfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
