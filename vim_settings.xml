@@ -180,11 +180,11 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539608435551">
-        <mark key="[" line="852" column="31" />
-        <mark key="]" line="852" column="31" />
-        <mark key="." line="852" column="31" />
-        <mark key="^" line="851" column="43" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539609322943">
+        <mark key="[" line="425" column="40" />
+        <mark key="]" line="425" column="40" />
+        <mark key="." line="425" column="40" />
+        <mark key="^" line="424" column="39" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -630,10 +630,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duedil_id</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>duedil_id</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>BATCHES_CHUNK_SIZE</text>
