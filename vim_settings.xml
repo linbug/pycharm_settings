@@ -325,8 +325,8 @@
       <file name="$USER_HOME$/snapshot/bin/env/lib/python2.7/site-packages/mrjob/protocol.py" timestamp="1538404390806">
         <mark key="[" line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1537538573818">
-        <mark key="[" line="9" column="5" />
+      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1539687529353">
+        <mark key="[" line="4" column="65" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
