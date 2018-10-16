@@ -180,10 +180,11 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539617269242">
-        <mark key="]" line="856" column="0" />
-        <mark key="." line="856" column="0" />
-        <mark key="^" line="856" column="0" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539684987248">
+        <mark key="[" line="91" column="47" />
+        <mark key="]" line="91" column="90" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="90" column="37" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -623,43 +624,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICB8ICAgICAgICBkb2cgICAgICAgfCAgICAgICAgMiAgICAgIHwgICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>BATCHES_CHUNK_SIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVC5TdHJ1Y3RGaWVsZCgiZHVlZGlsX2lkIiwgVC5TdHJpbmdUeXBlKCksIEZhbHNlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICB8ICAgICAgICBkb2cgICAgICAgfCAgICAgICAgMiAgICAgIHwgICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2UiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkJzogJ2R1ZWRpbF9pZF9rZXl3b3JkJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgdGllcl9udW0gaW4gcmFuZ2UoMSw1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2UiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRpZXJfbnVtIGluIHJhbmdlKDEsNSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXl3b3JkLCBzb3VyY2VzIGluIHJlY29yZFsndGllcl97fScuZm9ybWF0KHRpZXJfbnVtKV0uaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgdGllcl9udW0gaW4gcmFuZ2UoMSw1KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgJ2tleXdvcmRzJzoga2V5d29yZHMKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRpZXJfbnVtIGluIHJhbmdlKDEsNSk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXl3b3JkLCBzb3VyY2VzIGluIHJlY29yZFsndGllcl97fScuZm9ybWF0KHRpZXJfbnVtKV0uaXRlbXMoKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkJzogcmVjb3JkWydkdWVkaWxfaWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgJ2tleXdvcmRzJzoga2V5d29yZHMKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
