@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_pg.py" timestamp="1539765172597">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="62" />
-        <mark key="^" line="16" column="62" />
-        <mark key="." line="16" column="62" />
+      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_pg.py" timestamp="1539775312402">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/output/csv/manual_international.py" timestamp="1535984284043">
         <mark key="[" line="0" column="0" />
@@ -69,11 +69,12 @@
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/lcd01/coalesce_events.py" timestamp="1530807313148">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539771937998">
-        <mark key="[" line="111" column="14" />
-        <mark key="]" line="104" column="24" />
-        <mark key="^" line="104" column="24" />
-        <mark key="." line="104" column="24" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539774445820">
+        <mark key="'" line="111" column="16" />
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
+        <mark key="^" line="111" column="20" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/word_vectors/expand_and_assign_tiers.py" timestamp="1535538544942">
         <mark key="[" line="305" column="17" />
@@ -188,11 +189,11 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539771092584">
-        <mark key="[" line="851" column="0" />
-        <mark key="]" line="858" column="9" />
-        <mark key="." line="851" column="33" />
-        <mark key="^" line="851" column="33" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539774986595">
+        <mark key="[" line="105" column="26" />
+        <mark key="]" line="105" column="68" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="54" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -275,6 +276,7 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="39" column="27" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/core/spark/util/dataframe.py" timestamp="1539773095318" />
       <file name="$USER_HOME$/snapshot/snapshot/ray/job/coalesce_events.py" timestamp="1530721937748">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -350,11 +352,6 @@
         <mark key="^" line="124" column="20" />
         <mark key="." line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-hmrc-traders.yml" timestamp="1538147461809">
-        <mark key="'" line="35" column="5" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="54" column="46" />
-      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/util.py" timestamp="1533889589256">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="32" column="0" />
@@ -400,10 +397,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/combine_output.py" timestamp="1535546231942">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/combine_output.py" timestamp="1539774777550">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/coalesce_events.py" timestamp="1530802655322">
         <mark key="[" line="14" column="15" />
@@ -473,10 +471,11 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="63" column="52" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539771381941">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539773583819">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/omicron/bin/env/lib/python3.5/site-packages/scipy/spatial/distance.py" timestamp="1536938375526">
         <mark key="[" line="318" column="0" />
@@ -632,46 +631,47 @@
       <jump line="71" column="6" filename="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords.yml" />
       <jump line="115" column="6" filename="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords.yml" />
       <jump line="116" column="8" filename="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords.yml" />
+      <jump line="111" column="16" filename="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">S0VZV09SRFNfU0NIRU1BID0gVC5TdHJ1Y3RUeXBlKFsKICAgIFQuU3RydWN0RmllbGQoJ2R1ZWRpbF9pZCcsIFQuU3RyaW5nVHlwZSgpLCBGYWxzZSksCiAgICBULlN0cnVjdEZpZWxkKCdrZXl3b3JkcycsIFQuQXJyYXlUeXBlKFQuU3RyaW5nVHlwZSgpKSwgRmFsc2UpLApdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJuYW1lIjogInRpZXIiLCAidHlwZSI6ICJpbnRlZ2VyIiwgIm1vZGUiOiAicmVxdWlyZWQifSwK</text>
       </register>
       <register name="-" type="4">
-        <text>df_schema</text>
+        <text>tier</text>
       </register>
       <register name="/" type="4">
         <text>BATCHES_CHUNK_SIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZl9zY2hlbWEgPSBULlN0cnVjdFR5cGUoWwogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJkdWVkaWxfaWQiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJrZXl3b3JkcyIsIFQuQXJyYXlUeXBlKFQuU3RydWN0VHlwZShbCiAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJrZXl3b3JkIiwgVC5TdHJpbmdUeXBlKCksIEZhbHNlKSwKICAgICAgICAgICAgICAgIFQuU3RydWN0RmllbGQoInRpZXIiLCBULlNob3J0VHlwZSgpLCBGYWxzZSksCiAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2VzIiwgVC5BcnJheVR5cGUoVC5TdHJpbmdUeXBlKCkpLCBGYWxzZSksCiAgICAgICAgICAgIF0pLCBGYWxzZSksIEZhbHNlKQogICAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJuYW1lIjogInRpZXIiLCAidHlwZSI6ICJpbnRlZ2VyIiwgIm1vZGUiOiAicmVxdWlyZWQifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">S0VZV09SRFNfU0NIRU1BID0gVC5TdHJ1Y3RUeXBlKFsKICAgIFQuU3RydWN0RmllbGQoJ2R1ZWRpbF9pZCcsIFQuU3RyaW5nVHlwZSgpLCBGYWxzZSksCiAgICBULlN0cnVjdEZpZWxkKCdrZXl3b3JkcycsIFQuQXJyYXlUeXBlKFQuU3RyaW5nVHlwZSgpKSwgRmFsc2UpLApdKQo=</text>
+        <text encoding="base64">IyBUaGlzIGRpY3QgcHJvdmlkZXMgYSB0ZW1wb3Jhcnkgc3RhdGljIHNjb3JlIGFzc2lnbmVkIHRvIHRoZSBkaWZmZXJlbnQgdGllcnMuCiMgSXQgaXMgbmVlZGVkIGZvciB0aGUgREFMIGFuZCBBUEkgdG8gaGF2ZSBhIGNvbnRpbnVvdXMgc2NvcmUgZmllbGQuCiMgVE9ETzogUmVtb3ZlIG9uY2Ugd2UgaGF2ZSBhIHNjb3JpbmcgbWVjaGFuaXNtIGZvciBjb21wYW55IGtleXdvcmRzClRJRVJfU0NPUkVfTUFQUElORyA9IHsKICAgICcxJzogMS4wLAogICAgJzInOiAwLjc1LAogICAgJzMnOiAwLjUsCiAgICAnNCc6IDAuMjUKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtrZXl3b3Jkc19yZWNvcmRba10gZm9yIGsgaW4gKCdrZXl3b3JkJywgJ3RpZXInLCAnc291cmNlcycpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkJzogJ2R1ZWRpbF9pZF9rZXl3b3JkJywK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZGljdDJsaXN0KGQpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChsYW1iZGEgcmVjb3JkOiB7CiAgICAgICAgICAgICAgICBrZXk6IHZhbHVlIGZvciBrZXksIHZhbHVlIGluIHJlY29yZC5pdGVyaXRlbXMoKQogICAgICAgICAgICAgICAgaWYga2V5IGluIFtLZXl3b3Jkc09iamVjdC5maW5hbF9rZXl3b3JkcywgJ2R1ZWRpbF9pZCddCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2UiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbcmVjb3JkWydrZXl3b3JkcyddWydrZXl3b3JkJ10sIHJlY29yZFsna2V5d29yZHMnXVsndGllciddLCByZWNvcmRbJ2tleXdvcmRzJ11bJ3NvdXJjZXMnXV0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgdGllcl9udW0gaW4gcmFuZ2UoMSw1KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2Uga2V5OiB2YWx1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRpZXJfbnVtIGluIHJhbmdlKDEsNSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGtleSA9PSBLZXl3b3Jkc09iamVjdC5maW5hbF9rZXl3b3Jkcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXl3b3JkLCBzb3VyY2VzIGluIHJlY29yZFsndGllcl97fScuZm9ybWF0KHRpZXJfbnVtKV0uaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXksIHZhbHVlIGluIHJlY29yZC5pdGVyaXRlbXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
