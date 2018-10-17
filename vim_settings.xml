@@ -69,8 +69,11 @@
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/lcd01/coalesce_events.py" timestamp="1530807313148">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539764282375">
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539769419725">
         <mark key="[" line="24" column="81" />
+        <mark key="]" line="104" column="24" />
+        <mark key="^" line="104" column="24" />
+        <mark key="." line="104" column="24" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/word_vectors/expand_and_assign_tiers.py" timestamp="1535538544942">
         <mark key="[" line="305" column="17" />
@@ -185,11 +188,11 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539684987248">
-        <mark key="[" line="91" column="47" />
-        <mark key="]" line="91" column="90" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="90" column="37" />
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539768646182">
+        <mark key="[" line="851" column="0" />
+        <mark key="]" line="858" column="9" />
+        <mark key="." line="851" column="33" />
+        <mark key="^" line="851" column="33" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -470,6 +473,11 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="63" column="52" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539768737939">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/omicron/bin/env/lib/python3.5/site-packages/scipy/spatial/distance.py" timestamp="1536938375526">
         <mark key="[" line="318" column="0" />
         <mark key="]" line="332" column="11" />
@@ -627,43 +635,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICB8ICAgICAgICBkb2cgICAgICAgfCAgICAgICAgMiAgICAgIHwgICAgICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">S0VZV09SRFNfU0NIRU1BID0gVC5TdHJ1Y3RUeXBlKFsKICAgIFQuU3RydWN0RmllbGQoJ2R1ZWRpbF9pZCcsIFQuU3RyaW5nVHlwZSgpLCBGYWxzZSksCiAgICBULlN0cnVjdEZpZWxkKCdrZXl3b3JkcycsIFQuQXJyYXlUeXBlKFQuU3RyaW5nVHlwZSgpKSwgRmFsc2UpLApdKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>df_schema</text>
       </register>
       <register name="/" type="4">
         <text>BATCHES_CHUNK_SIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICB8ICAgICAgICBkb2cgICAgICAgfCAgICAgICAgMiAgICAgIHwgICAgICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZl9zY2hlbWEgPSBULlN0cnVjdFR5cGUoWwogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJkdWVkaWxfaWQiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAogICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJrZXl3b3JkcyIsIFQuQXJyYXlUeXBlKFQuU3RydWN0VHlwZShbCiAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJrZXl3b3JkIiwgVC5TdHJpbmdUeXBlKCksIEZhbHNlKSwKICAgICAgICAgICAgICAgIFQuU3RydWN0RmllbGQoInRpZXIiLCBULlNob3J0VHlwZSgpLCBGYWxzZSksCiAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2VzIiwgVC5BcnJheVR5cGUoVC5TdHJpbmdUeXBlKCkpLCBGYWxzZSksCiAgICAgICAgICAgIF0pLCBGYWxzZSksIEZhbHNlKQogICAgICAgIF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLAo=</text>
+        <text encoding="base64">S0VZV09SRFNfU0NIRU1BID0gVC5TdHJ1Y3RUeXBlKFsKICAgIFQuU3RydWN0RmllbGQoJ2R1ZWRpbF9pZCcsIFQuU3RyaW5nVHlwZSgpLCBGYWxzZSksCiAgICBULlN0cnVjdEZpZWxkKCdrZXl3b3JkcycsIFQuQXJyYXlUeXBlKFQuU3RyaW5nVHlwZSgpKSwgRmFsc2UpLApdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkJzogJ2R1ZWRpbF9pZF9rZXl3b3JkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZHVlZGlsX2lkJzogJ2R1ZWRpbF9pZF9rZXl3b3JkJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2UiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsibmFtZSI6ICJzb3VyY2UiLCAidHlwZSI6ICJzdHJpbmciLCAibW9kZSI6ICJyZXF1aXJlZCJ9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBULlN0cnVjdEZpZWxkKCJzb3VyY2UiLCBULlN0cmluZ1R5cGUoKSwgRmFsc2UpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgdGllcl9udW0gaW4gcmFuZ2UoMSw1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRpZXJfbnVtIGluIHJhbmdlKDEsNSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgdGllcl9udW0gaW4gcmFuZ2UoMSw1KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXl3b3JkLCBzb3VyY2VzIGluIHJlY29yZFsndGllcl97fScuZm9ybWF0KHRpZXJfbnVtKV0uaXRlbXMoKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRpZXJfbnVtIGluIHJhbmdlKDEsNSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgJ2tleXdvcmRzJzoga2V5d29yZHMKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBrZXl3b3JkLCBzb3VyY2VzIGluIHJlY29yZFsndGllcl97fScuZm9ybWF0KHRpZXJfbnVtKV0uaXRlbXMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
