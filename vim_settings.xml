@@ -462,11 +462,11 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="63" column="52" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539773583819">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539785650139">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/omicron/bin/env/lib/python3.5/site-packages/scipy/spatial/distance.py" timestamp="1536938375526">
         <mark key="[" line="318" column="0" />
@@ -625,8 +625,8 @@
       <jump line="111" column="16" filename="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJuYW1lIjogInRpZXIiLCAidHlwZSI6ICJpbnRlZ2VyIiwgIm1vZGUiOiAicmVxdWlyZWQifSwK</text>
+      <register name="&quot;" type="4">
+        <text>tier</text>
       </register>
       <register name="-" type="4">
         <text>tier</text>
@@ -635,7 +635,7 @@
         <text>BATCHES_CHUNK_SIZE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJuYW1lIjogInRpZXIiLCAidHlwZSI6ICJpbnRlZ2VyIiwgIm1vZGUiOiAicmVxdWlyZWQifSwK</text>
+        <text encoding="base64">ICAgICAgICBULlN0cnVjdEZpZWxkKCJ0aWVyIiwgVC5TaG9ydFR5cGUoKSwgRmFsc2UpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBUaGlzIGRpY3QgcHJvdmlkZXMgYSB0ZW1wb3Jhcnkgc3RhdGljIHNjb3JlIGFzc2lnbmVkIHRvIHRoZSBkaWZmZXJlbnQgdGllcnMuCiMgSXQgaXMgbmVlZGVkIGZvciB0aGUgREFMIGFuZCBBUEkgdG8gaGF2ZSBhIGNvbnRpbnVvdXMgc2NvcmUgZmllbGQuCiMgVE9ETzogUmVtb3ZlIG9uY2Ugd2UgaGF2ZSBhIHNjb3JpbmcgbWVjaGFuaXNtIGZvciBjb21wYW55IGtleXdvcmRzClRJRVJfU0NPUkVfTUFQUElORyA9IHsKICAgICcxJzogMS4wLAogICAgJzInOiAwLjc1LAogICAgJzMnOiAwLjUsCiAgICAnNCc6IDAuMjUKfQo=</text>
