@@ -69,8 +69,8 @@
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/lcd01/coalesce_events.py" timestamp="1530807313148">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539769419725">
-        <mark key="[" line="24" column="81" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539771937998">
+        <mark key="[" line="111" column="14" />
         <mark key="]" line="104" column="24" />
         <mark key="^" line="104" column="24" />
         <mark key="." line="104" column="24" />
@@ -188,7 +188,7 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539768646182">
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539771092584">
         <mark key="[" line="851" column="0" />
         <mark key="]" line="858" column="9" />
         <mark key="." line="851" column="33" />
@@ -473,7 +473,7 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="63" column="52" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539768737939">
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539771381941">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
