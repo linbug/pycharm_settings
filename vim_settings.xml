@@ -69,6 +69,9 @@
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/lcd01/coalesce_events.py" timestamp="1530807313148">
         <mark key="[" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/elasticsearch/companies_transform.py" timestamp="1539764282375">
+        <mark key="[" line="24" column="81" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/word_vectors/expand_and_assign_tiers.py" timestamp="1535538544942">
         <mark key="[" line="305" column="17" />
         <mark key="]" line="305" column="16" />
@@ -325,7 +328,7 @@
       <file name="$USER_HOME$/snapshot/bin/env/lib/python2.7/site-packages/mrjob/protocol.py" timestamp="1538404390806">
         <mark key="[" line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1539709755139">
+      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1539764216753">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
