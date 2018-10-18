@@ -295,6 +295,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/elasticsearch/open_corporates_companies.py" timestamp="1539872948166">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/omicron.yml" timestamp="1538150099078">
         <mark key="[" line="127" column="52" />
         <mark key="]" line="130" column="53" />
