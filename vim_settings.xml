@@ -443,7 +443,7 @@
       <file name="$USER_HOME$/DueDil/url-matching/setup/docker-push-latest.sh" timestamp="1536830711981">
         <mark key="[" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/denorm/companies/denorm.py" timestamp="1539854895243">
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/denorm/companies/denorm.py" timestamp="1539872064484">
         <mark key="[" line="26" column="81" />
       </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/core/spark/job.py" timestamp="1534499871794">
