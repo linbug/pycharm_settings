@@ -6,10 +6,6 @@
       <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_pg.py" timestamp="1539852900109">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/output/csv/manual_international.py" timestamp="1535984284043">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="34" />
-      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/idiomatic_phrases.py" timestamp="1531834013275">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -19,10 +15,6 @@
         <mark key="[" line="23" column="32" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/output/postgres/datasci_keywords/company_keywords.py" timestamp="1536597367590">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/dir01/merge.py" timestamp="1530700571777">
         <mark key="[" line="362" column="0" />
@@ -62,10 +54,6 @@
         <mark key="^" line="305" column="16" />
         <mark key="." line="305" column="16" />
       </file>
-      <file name="$USER_HOME$/DueDil/url-matching/env/lib/python3.6/site-packages/s3fs/core.py" timestamp="1536755804666">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="36" />
-      </file>
       <file name="$USER_HOME$/snapshot/snapshot/core/spark/es_job.py" timestamp="1539956151613" />
       <file name="$USER_HOME$/snapshot/snapshot/duedil/ids/datamatching/postcodematch.py" timestamp="1531815063930">
         <mark key="[" line="10" column="55" />
@@ -77,18 +65,6 @@
         <mark key="]" line="100" column="44" />
         <mark key="." line="100" column="44" />
         <mark key="^" line="100" column="44" />
-      </file>
-      <file name="$USER_HOME$/snapshot/bin/env/lib/python2.7/site-packages/mrjob/job.py" timestamp="1538410838416">
-        <mark key="[" line="697" column="0" />
-        <mark key="]" line="738" column="36" />
-      </file>
-      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/snapshot.yml" timestamp="1538141168576">
-        <mark key="[" line="1301" column="0" />
-        <mark key="]" line="1301" column="37" />
-      </file>
-      <file name="$USER_HOME$/DueDil/url-matching/jobs/save_snapshot_candidates.py" timestamp="1536670912339">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/repos/data-chain/data-collection/ray/ftpsync/util.py" timestamp="1529659736065">
         <mark key="[" line="10" column="0" />
@@ -208,10 +184,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/denorm/output/snapshot/companies_parquet.py" timestamp="1535987078451">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="39" column="27" />
-      </file>
       <file name="$USER_HOME$/snapshot/snapshot/core/spark/util/dataframe.py" timestamp="1539878502017" />
       <file name="$USER_HOME$/snapshot/snapshot/ray/job/coalesce_events.py" timestamp="1530721937748">
         <mark key="[" line="10" column="0" />
@@ -297,10 +269,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/ray_ccj_updates.py" timestamp="1537529763951">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="74" />
-      </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction.py" timestamp="1536584756193">
         <mark key="[" line="196" column="30" />
         <mark key="]" line="314" column="0" />
@@ -380,14 +348,6 @@
         <mark key="]" line="10" column="1" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/omicron/bin/env/lib/python3.5/site-packages/scipy/spatial/distance.py" timestamp="1536938375526">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="332" column="11" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/mock_emails.py" timestamp="1537529743203">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/omicron/omicron/exporter/core/__init__.py" timestamp="1539789365112">
         <mark key="[" line="111" column="37" />
