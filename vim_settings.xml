@@ -11,20 +11,75 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/job/coalesce_events.py" timestamp="1530721937748">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/schema.py" timestamp="1539878643611">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/model/training_set/output/csv/gb_domains_for_crawling.py" timestamp="1536055828280">
         <mark key="[" line="23" column="32" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/events.py" timestamp="1530710134936">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/elasticsearch/open_corporates_companies.py" timestamp="1539872948166">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/uk/dir01/merge.py" timestamp="1530700571777">
         <mark key="[" line="362" column="0" />
         <mark key="]" line="362" column="0" />
         <mark key="." line="362" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/omicron.yml" timestamp="1538150099078">
+        <mark key="[" line="127" column="52" />
+        <mark key="]" line="130" column="53" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="122" column="39" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/key_extractor/ray_pg.py" timestamp="1531156109434">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="45" column="45" />
+        <mark key="^" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/glossary_international_generated.py" timestamp="1534509023018">
+        <mark key="[" line="4" column="53" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/elasticsearch/companies_transform.py" timestamp="1539879060932">
         <mark key="[" line="114" column="36" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/dev_environment.sh" timestamp="1533571116812">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/DueDil/url-matching/requirements.pip" timestamp="1536742907921">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc02/merge.py" timestamp="1538656458366">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/omicron/cluster_init_scripts/ingestion_reqs.sh" timestamp="1532011860045">
         <mark key="[" line="5" column="0" />
@@ -54,11 +109,28 @@
         <mark key="^" line="305" column="16" />
         <mark key="." line="305" column="16" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/core/spark/es_job.py" timestamp="1539956151613" />
+      <file name="$USER_HOME$/snapshot/snapshot/ray/output/snapshot/credit_limits.py" timestamp="1538561861511">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="61" />
+        <mark key="^" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1539792203796">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/ids/datamatching/postcodematch.py" timestamp="1531815063930">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc01/merge.py" timestamp="1538579195297">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="^" line="0" column="60" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/job/events_one_off.py" timestamp="1530716847395">
         <mark key="[" line="87" column="23" />
@@ -66,11 +138,55 @@
         <mark key="." line="100" column="44" />
         <mark key="^" line="100" column="44" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/util.py" timestamp="1533889589256">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/cluster_init_scripts/omicron_reqs.sh" timestamp="1534839980822">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/test/foo.py" timestamp="1541711311419">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction.py" timestamp="1536584756193">
+        <mark key="[" line="196" column="30" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/requirements.pip" timestamp="1537262426997">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/link/extract_keywords.py" timestamp="1537373123984">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction_util.py" timestamp="1533739128767">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/data-chain/data-collection/ray/ftpsync/util.py" timestamp="1529659736065">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/coalesce_events.py" timestamp="1530802655322">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/core/utils.py" timestamp="1534249751836">
         <mark key="[" line="49" column="42" />
@@ -78,16 +194,38 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/all_sources_join.py" timestamp="1530179017896">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/core/datascience/keywords/util.py" timestamp="1534945394197">
+        <mark key="[" line="69" column="38" />
+        <mark key="]" line="69" column="39" />
+        <mark key="^" line="69" column="39" />
+        <mark key="." line="69" column="39" />
+      </file>
       <file name="$USER_HOME$/omicron/conf/cluster_profiles.yml" timestamp="1538561109405">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="112" column="38" />
       </file>
+      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords-omicron.yml" timestamp="1538141499359">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="21" column="44" />
+      </file>
       <file name="$USER_HOME$/omicron/omicron/key_extractor/postcode_map.py" timestamp="1531394532909">
         <mark key="[" line="38" column="35" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/top_website_keywords_extract.py" timestamp="1533907644133">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/omicron/omicron/key_extractor/keywords_patches.py" timestamp="1535965765525">
         <mark key="[" line="65" column="0" />
@@ -105,10 +243,23 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/denorm/companies/denorm.py" timestamp="1539872064484">
+        <mark key="[" line="26" column="81" />
+      </file>
       <file name="$USER_HOME$/DueDil/url-matching/uma/util/hdfs.py" timestamp="1536757498556">
         <mark key="[" line="34" column="56" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/core/spark/job.py" timestamp="1534499871794">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/glossaries.py" timestamp="1534508976665">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/urlmatching/emails/process/match.py" timestamp="1534412047572">
         <mark key="[" line="168" column="111" />
@@ -116,11 +267,29 @@
         <mark key="^" line="168" column="0" />
         <mark key="." line="168" column="0" />
       </file>
+      <file name="$USER_HOME$/omicron/omicron/pipelines/core/pipeline.py" timestamp="1534499585062">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/util.py" timestamp="1537547290857">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="63" column="52" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+      </file>
       <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/combined_output.py" timestamp="1539781304864">
         <mark key="[" line="105" column="26" />
         <mark key="]" line="105" column="68" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="54" />
+      </file>
+      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539866904110">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/DueDil/url-matching/jobs/save_uk_candidates.py" timestamp="1536677290782">
         <mark key="[" line="82" column="0" />
@@ -157,10 +326,24 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/omicron/omicron/exporter/core/__init__.py" timestamp="1539789365112">
+        <mark key="[" line="111" column="37" />
+      </file>
+      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords.py" timestamp="1537544405539">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="43" column="7" />
+      </file>
       <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/unification/create_unification_maps.py" timestamp="1531834043776">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/omicron/helpers/create_cluster.py" timestamp="1533552726638">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="122" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repos/data-chain/data-collection/ray/ftpsync/bin/env/lib/python2.7/site-packages/boto/s3/connection.py" timestamp="1529591469036">
         <mark key="[" line="155" column="27" />
@@ -171,6 +354,12 @@
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/keywords_omicron.yml" timestamp="1538138728446">
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="72" column="7" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="7" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/gazette/__init__.py" timestamp="1530893282233">
         <mark key="[" line="5" column="15" />
@@ -184,195 +373,16 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/snapshot/snapshot/core/spark/util/dataframe.py" timestamp="1539878502017" />
-      <file name="$USER_HOME$/snapshot/snapshot/ray/job/coalesce_events.py" timestamp="1530721937748">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/schema.py" timestamp="1539878643611">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/events.py" timestamp="1530710134936">
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/open_corporates/output/elasticsearch/open_corporates_companies.py" timestamp="1539872948166">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-      </file>
-      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/omicron.yml" timestamp="1538150099078">
-        <mark key="[" line="127" column="52" />
-        <mark key="]" line="130" column="53" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="122" column="39" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/key_extractor/ray_pg.py" timestamp="1531156109434">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="45" column="45" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="38" column="47" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/glossary_international_generated.py" timestamp="1534509023018">
-        <mark key="[" line="4" column="53" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/omicron/cluster_init_scripts/dev_environment.sh" timestamp="1533571116812">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/DueDil/url-matching/requirements.pip" timestamp="1536742907921">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc02/merge.py" timestamp="1538656458366">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/output/snapshot/credit_limits.py" timestamp="1538561861511">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="61" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords_snapshot.py" timestamp="1539792203796">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc01/merge.py" timestamp="1538579195297">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="0" column="60" />
-        <mark key="^" line="0" column="60" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/util.py" timestamp="1533889589256">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/omicron/cluster_init_scripts/omicron_reqs.sh" timestamp="1534839980822">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction.py" timestamp="1536584756193">
-        <mark key="[" line="196" column="30" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
-      </file>
-      <file name="$USER_HOME$/omicron/requirements.pip" timestamp="1537262426997">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/link/extract_keywords.py" timestamp="1537373123984">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/website_extraction_util.py" timestamp="1533739128767">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray/roi/rad01/coalesce_events.py" timestamp="1530802655322">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/all_sources_join.py" timestamp="1530179017896">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/core/datascience/keywords/util.py" timestamp="1534945394197">
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="39" />
-        <mark key="^" line="69" column="39" />
-        <mark key="." line="69" column="39" />
-      </file>
-      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/etl-keywords-omicron.yml" timestamp="1538141499359">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="21" column="44" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/international/websites/top_website_keywords_extract.py" timestamp="1533907644133">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/denorm/companies/denorm.py" timestamp="1539872064484">
-        <mark key="[" line="26" column="81" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/core/spark/job.py" timestamp="1534499871794">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/keywords/util/glossaries.py" timestamp="1534508976665">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/pipelines/core/pipeline.py" timestamp="1534499585062">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="11" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/duedil/keywords/util.py" timestamp="1537547290857">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="63" column="52" />
-        <mark key="^" line="63" column="52" />
-        <mark key="." line="63" column="52" />
-      </file>
-      <file name="$USER_HOME$/snapshot/snapshot/ray_index/output/schema.py" timestamp="1539866904110">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/core/__init__.py" timestamp="1539789365112">
-        <mark key="[" line="111" column="37" />
-      </file>
-      <file name="$USER_HOME$/omicron/omicron/exporter/vorboss_hdfs/keywords.py" timestamp="1537544405539">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="43" column="7" />
-      </file>
-      <file name="$USER_HOME$/omicron/helpers/create_cluster.py" timestamp="1533552726638">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="122" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/keywords_omicron.yml" timestamp="1538138728446">
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="72" column="7" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="7" />
-      </file>
       <file name="$USER_HOME$/repos/platform-jenkins-jobs/jobs/elasticsearch.yml" timestamp="1538388381381">
         <mark key="[" line="1084" column="26" />
         <mark key="]" line="1085" column="0" />
         <mark key="." line="1085" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/github.com/Shopify/onboarding-sandbox/app/views/welcome/index.html.erb" timestamp="1541711297703">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/snapshot/snapshot/ray/roi/acc01/coalesce_events.py" timestamp="1530801933625">
         <mark key="[" line="1" column="25" />
